@@ -1,0 +1,46 @@
+*{
+
+    margin : auto;
+    padding : 0px 0;
+    background-color: lightgoldenrodyellow;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    margin-top: 2%;
+}
+
+.letter{
+
+    margin-left: 4%;
+    margin-top: 10%;
+
+}
+.letter p{
+
+    margin-bottom: 0.9%;
+}
+
+.image{
+    right: 100px;
+    position: absolute;
+    top: 30%;
+}
+.image img{
+    width: 400x;
+    height: 400px;
+}
+
+.close{
+    right: 100px;
+    margin-top: 30%;
+    margin-right: 20%;
+}
+.close h1{
+    text-align: right;
+}
+.close h2{
+    text-align: right;
+    margin-right: 3.5%;
+}
